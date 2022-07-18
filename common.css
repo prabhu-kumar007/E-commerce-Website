@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    margin-top: 10px;
+
+}
+.wrapper{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.left-align{
+    float: left;
+}
+.header-width{
+    width: 25%;
+}
+.header-width-50{
+    width: 50%;
+}
+.headerBtn{
+height: 28px;
+border: 1px solid #ddd;
+min-width: 50px;
+text-align: center;
+background-color: #fff;
+border-radius: 0;
+color: rgb(64, 155, 167);
+}
+.headerBtn span:first-of-type{
+    font-size: 16px;
+    font-weight: 800;
+}
